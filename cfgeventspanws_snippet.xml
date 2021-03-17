@@ -1,0 +1,17 @@
+<!-- copy and paste below into the top of your cfgeventspawns xml -->
+
+ <event name="StaticBuilding1">
+        <pos x="12400.23" z="12398.68" a="113.000000" />
+    </event>
+	<event name="VehicleTruckKras">
+        <pos x="12339.47" z="12423.96" a="113.000000" />
+    </event>
+	<event name="ItemM4A1">
+        <pos x="12313.71" z="12435.14" a="113.000000" />
+    </event>
+	<event name="ItemBear1">
+        <pos x="12177.11" z="12489.58" a="113.000000" />
+    </event>
+	<event name="ItemNPC1">
+        <pos x="12081.84 " z="12527.50" a="113.000000" />
+    </event>
